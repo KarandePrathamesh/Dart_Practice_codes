@@ -1,0 +1,2 @@
+remove(); 
+Removes the first occurrence of value from this list. Returns true if value was in the list, false otherwise. The list must be growable.

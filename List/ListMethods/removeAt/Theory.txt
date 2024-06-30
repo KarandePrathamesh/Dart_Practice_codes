@@ -1,0 +1,2 @@
+removeAt();
+Removes the object at position index from the list. This method reduces the length of this by one and moves all later objects down by one position. Returns the removed value.
