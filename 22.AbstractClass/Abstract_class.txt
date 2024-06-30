@@ -1,0 +1,6 @@
+Abstract Class:
+	> Abstract class contains abstract methods and normal methods too.
+	> Abstract methods are those methods which doesn't have body(Definition).
+	> If there at least one abstract method then declare the class as abstract.
+	> The object of the abstract class cannot be created.
+	> "abstract" is the keyword used to declare abstract class.

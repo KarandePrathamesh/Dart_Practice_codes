@@ -1,0 +1,7 @@
+Overloading:
+
+	same class madhe same navachya methods astil pn tyanchi arguments/parameters list vegli aste tyala overloading mhnatat
+
+Overriding:
+
+	different class madhe same navachya methods astil tr tya override hotat
